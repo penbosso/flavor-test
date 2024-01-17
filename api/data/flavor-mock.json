@@ -1,0 +1,156 @@
+{
+    "result": [
+        {
+            "_id": "6553a0b53cc67bdae9ba9fc1",
+            "flavor": "blue dream",
+            "category": {
+                "pre-roll": 1319,
+                "vape": 3352,
+                "hybrid": 199,
+                "flower": 378,
+                "extract": 566,
+                "gear": 48,
+                "sativa": 176,
+                "edible": 34,
+                "indica": 3,
+                "tincture": 16,
+                "grow": 2
+            },
+            "snapshot": "2023-11-01",
+            "total": 6093
+        },
+        {
+            "_id": "6553a0b53cc67bdae9ba9f4c",
+            "flavor": "watermelon",
+            "category": {
+                "edible": 3355,
+                "tincture": 136,
+                "vape": 864,
+                "pre-roll": 346,
+                "gear": 78,
+                "extract": 42,
+                "hybrid": 1,
+                "flower": 1
+            },
+            "snapshot": "2023-11-01",
+            "total": 4823
+        },
+        {
+            "_id": "6553a0b53cc67bdae9ba9f12",
+            "flavor": "gelato",
+            "category": {
+                "hybrid": 517,
+                "flower": 586,
+                "extract": 524,
+                "pre-roll": 1328,
+                "vape": 1752,
+                "edible": 26,
+                "indica": 68,
+                "sativa": 1,
+                "grow": 8,
+                "tincture": 2
+            },
+            "snapshot": "2023-11-01",
+            "total": 4812
+        },
+        {
+            "_id": "6553a0b53cc67bdae9ba9fdb",
+            "flavor": "ice cream cake",
+            "category": {
+                "vape": 982,
+                "extract": 780,
+                "hybrid": 280,
+                "flower": 561,
+                "pre-roll": 976,
+                "indica": 279,
+                "sativa": 2,
+                "edible": 18
+            },
+            "snapshot": "2023-11-01",
+            "total": 3878
+        },
+        {
+            "_id": "6553a0b53cc67bdae9ba9f38",
+            "flavor": "wedding cake",
+            "category": {
+                "extract": 591,
+                "pre-roll": 1060,
+                "hybrid": 283,
+                "flower": 443,
+                "vape": 1108,
+                "indica": 155,
+                "sativa": 5,
+                "grow": 4,
+                "edible": 2,
+                "gear": 4
+            },
+            "snapshot": "2023-11-01",
+            "total": 3655
+        },
+        {
+            "_id": "6553a0b53cc67bdae9ba9f41",
+            "flavor": "apple fritter",
+            "category": {
+                "extract": 403,
+                "pre-roll": 860,
+                "vape": 1434,
+                "hybrid": 463,
+                "flower": 476,
+                "indica": 5,
+                "grow": 2,
+                "sativa": 8
+            },
+            "snapshot": "2023-11-01",
+            "total": 3651
+        },
+        {
+            "_id": "6553a0b53cc67bdae9ba9f5a",
+            "flavor": "pineapple express",
+            "category": {
+                "edible": 96,
+                "pre-roll": 698,
+                "vape": 2276,
+                "extract": 192,
+                "hybrid": 174,
+                "flower": 181,
+                "grow": 2,
+                "indica": 4,
+                "sativa": 3
+            },
+            "snapshot": "2023-11-01",
+            "total": 3626
+        },
+        {
+            "_id": "6553a0b53cc67bdae9ba9f49",
+            "flavor": "strawberry",
+            "category": {
+                "edible": 2689,
+                "hybrid": 8,
+                "flower": 10,
+                "pre-roll": 278,
+                "vape": 118,
+                "extract": 38,
+                "tincture": 58,
+                "gear": 44,
+                "sativa": 2
+            },
+            "snapshot": "2023-11-01",
+            "total": 3245
+        },
+        {
+            "_id": "6553a0b53cc67bdae9ba9efa",
+            "flavor": "mac",
+            "category": {
+                "hybrid": 443,
+                "flower": 484,
+                "pre-roll": 808,
+                "vape": 754,
+                "extract": 590,
+                "edible": 70,
+                "indica": 41
+            },
+            "snapshot": "2023-11-01",
+            "total": 3190
+        }
+    ]
+}

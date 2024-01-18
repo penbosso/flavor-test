@@ -11,7 +11,7 @@ interface FlavorsProps {
 export default function FlavorTable({ flavors }: FlavorsProps) {
 
     // const fetcher: Fetcher<any[]> =  = url => fetch(url).then(result => result.json())
-    // const { data, error, isLoading } = useSWR('http://localhost:8080', fetcher)
+    // const { data, error, isLoading } = useSWR('http://localhost:8080/flavors', fetcher)
 
     // if (error) return <div>failed to load</div>
 
